@@ -9,6 +9,6 @@
 
 ──────────────────────────────────────
 
-<p align="center">
+<p align="left">
 <img src="assets/profile.png" width="450">
 </p>

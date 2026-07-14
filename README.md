@@ -8,3 +8,7 @@
  Game Developer
 
 ──────────────────────────────────────
+
+<p align="center">
+<img src="assets/profile.png" width="450">
+</p>
